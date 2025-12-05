@@ -1,2 +1,3 @@
 # bkristoff.github.io
-Demo-repo
+Repo for å demonstrere publisering av nettsider med GitHub Pages.
+Åpne nettleseren på: https://bkristoff.github.io
